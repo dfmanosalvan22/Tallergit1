@@ -5,3 +5,12 @@ Esta es la primera entrada en mi fichero Readme.md
 **prueba de negrita**
 *prueba de cursiva*
 para comandos `ls -la`
+
+bloque de codigo
+``` python
+bloque de codigo
+print("Hola Mundo")
+```
+
+enlaces
+enlace a la web del [IES Albarregas](http://iesalbarregas.es)
